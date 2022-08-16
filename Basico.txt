@@ -30,6 +30,20 @@ https://www.netlify.com/
 
 Productión with Git rapido
 git init
-
 inicializa el repositorio
+
 git add .
+prepara para una fotografia
+
+git commit -m "First commit"
+Toma fotografia
+
+Proyecto respaldado
+git checkout --. "reconstruye todo el proyecto al ultimo commit"
+
+Subir a git Complete
+git remote add origin https://github.com/AndresHuanca/GifExpert-React.git
+git branch -M main
+git push -u origin main
+
+create README.md
