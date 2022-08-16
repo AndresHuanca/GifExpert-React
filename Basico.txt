@@ -56,3 +56,6 @@ git commit -m "nombre de cambio"
 
 desplegar en github cuando ya esta creado 
 git push
+
+productión en  github
+rename dist a docs
