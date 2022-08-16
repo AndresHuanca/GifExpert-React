@@ -1,0 +1,35 @@
+Create Project
+yarn create vite
+name project
+react
+
+"rafc" for create Functional component}
+crear cosas iniciales del proyecto- 72
+create main 
+create Functional component
+
+create modules of node
+yarn install or yarn 
+
+correr project 
+yarn dev
+
+create un FC general 
+luego carpeta component
+colocar los FC secundarios
+
+para reconstruir los paquetes d e NodeJs para correr la aplicatión 
+yarn install 
+
+Generar para producción 
+yarn build
+carpeta dist
+
+Para subir producción rapido
+https://www.netlify.com/
+
+Productión with Git rapido
+git init
+
+inicializa el repositorio
+git add .
