@@ -53,3 +53,6 @@ cuando ya hay un commit y se realizan cambios y se quiere guardar se
 realiza 
 git add .
 git commit -m "nombre de cambio"
+
+desplegar en github cuando ya esta creado 
+git push
