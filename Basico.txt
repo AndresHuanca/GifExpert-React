@@ -47,3 +47,9 @@ git branch -M main
 git push -u origin main
 
 create README.md
+
+Example 
+cuando ya hay un commit y se realizan cambios y se quiere guardar se 
+realiza 
+git add .
+git commit -m "nombre de cambio"
